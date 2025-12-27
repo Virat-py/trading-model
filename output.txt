@@ -1,0 +1,36 @@
+Start                     2004-08-19 00:00:00
+End                       2013-03-01 00:00:00
+Duration                   3116 days 00:00:00
+Exposure Time [%]                    94.27374
+Equity Final [$]                  56263.51934
+Equity Peak [$]                   56309.05934
+Commissions [$]                   10563.95154
+Return [%]                          462.63519
+Buy & Hold Return [%]               607.37036
+Return (Ann.) [%]                    22.46598
+Volatility (Ann.) [%]                 37.4129
+CAGR [%]                             14.99343
+Sharpe Ratio                          0.60049
+Sortino Ratio                          1.1445
+Calmar Ratio                           0.6621
+Alpha [%]                           450.62135
+Beta                                  0.01978
+Max. Drawdown [%]                   -33.93159
+Avg. Drawdown [%]                    -6.16072
+Max. Drawdown Duration      830 days 00:00:00
+Avg. Drawdown Duration       50 days 00:00:00
+# Trades                                   93
+Win Rate [%]                         54.83871
+Best Trade [%]                       57.43355
+Worst Trade [%]                     -16.39664
+Avg. Trade [%]                        2.16381
+Max. Trade Duration         121 days 00:00:00
+Avg. Trade Duration          32 days 00:00:00
+Profit Factor                         2.27119
+Expectancy [%]                        2.69468
+SQN                                   2.01358
+Kelly Criterion                        0.2619
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                       Size  EntryB...
+dtype: object
